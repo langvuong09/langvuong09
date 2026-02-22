@@ -12,7 +12,7 @@
 
 [![Facebook](https://img.icons8.com/ios-filled/50/1e90ff/facebook-new.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 &nbsp;&nbsp;&nbsp;
-[![Github](https://img.icons8.com/ios-glyphs/50/000000/github.png)](https://www.facebook.com/share/1C3dRwaQVH/)
+[![Github](https://img.icons8.com/ios-glyphs/50/000000/github.png)](https://github.com/langvuong09)
 &nbsp;&nbsp;&nbsp;
 [![Discord](https://img.icons8.com/ios-glyphs/50/800080/discord-logo.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 &nbsp;&nbsp;&nbsp;
