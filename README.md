@@ -18,7 +18,7 @@
 &nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.icons8.com/ios-filled/50/ff0000/gmail.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 &nbsp;&nbsp;&nbsp;
-[![Intagram](https://img.icons8.com/ios-filled/50/00008B/linkedin.png)](https://www.facebook.com/share/1C3dRwaQVH/)
+[![Intagram](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 <br />
 <br />
 </div>
