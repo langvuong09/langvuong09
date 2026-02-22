@@ -32,11 +32,8 @@ I enjoy creating in coding and exploring new technologies.
 <br />
 I'm always eager to bring my best to any team I join, with a strong sense of responsibility and dedication.
 <br />
-<div>
-  <h3>
-  🙋 About Me    
-  </h3>
-</div>
+
+🙋 About Me    
 ---
 <div>
 🎓 I'm learning Software Engineering at SaiGon University
