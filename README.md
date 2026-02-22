@@ -32,3 +32,11 @@ I'm a **Software engineering** student with a srtong passion for **backend devel
 I enjoy creating in coding and exploring new technologies.
 <br />
 I'm always eager to bring my best to any team I join, with a strong sense of responsibility and dedication.
+
+🚀 About Me
+🎓 I'm learning Software Engineering at SaiGon University
+Current GPA: 3.67/4.0
+💻 Passionate about coding, problem-solving, and constantly learning new technologies.
+🌱 Currently exploring web development and backend programming.
+🤝 Open to collaboration and always eager to connect with fellow developers.
+❤️ Only those who know it’s impossible yet still try — that’s true romance. 
