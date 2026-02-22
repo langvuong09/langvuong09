@@ -23,15 +23,16 @@
 <br />
 </div>
 
-<img align="left" width="80"/>
-
 Hi, I'm Cuong, nice to meet you ^^
-I'm a **Software engineering** student with a srtong passion for **backend development** and building reliable, scalable systems.
 <br />
-I enjoy creating in coding and exploring new technologies.
-<br />
-I'm always eager to bring my best to any team I join, with a strong sense of responsibility and dedication.
-<br />
+<div style="border:1px solid #ccc; padding:12px; border-radius:8px;">
+  I'm a <strong>Software engineering</strong> student with a srtong passion for <strong>backend development</strong> and building reliable, scalable systems.
+  <br />
+  I enjoy creating in coding and exploring new technologies.
+  <br />
+  I'm always eager to bring my best to any team I join, with a strong sense of responsibility and dedication.
+  <br />
+</div>
 
 🙋 About Me    
 ---
