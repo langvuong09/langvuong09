@@ -1,18 +1,15 @@
 <div align="center">
 
 <h1>
-  
   <span style="color:#1e90ff;">Cao Tiến Cường</span>
-  
 </h1>
-
+<br />
+<br />
 </div>
 
 <div align="center" color="blue">
 
 <div align="center">
-
-
 
 <a href="https://www.facebook.com/share/1C3dRwaQVH/">
   <img src="https://img.icons8.com/ios-filled/50/1e90ff/facebook-new.png"/>
@@ -29,8 +26,6 @@
 <a href="https://linkedin.com/in/yourprofile">
   <img src="https://img.icons8.com/ios-filled/50/1e90ff/linkedin.png"/>
 </a>
-
-
 
 </div>
 
