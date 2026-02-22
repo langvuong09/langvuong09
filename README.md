@@ -40,11 +40,9 @@ I'm always eager to bring my best to any team I join, with a strong sense of res
   <br />
   Current GPA: 3.67/4.0
   <br />
-  💻 Passionate about coding, problem-solving, and constantly learning new technologies.
+  💻 Passionate about coding, love to explore, problem-solving, and constantly learning new technologies.
   <br />
   🌱 Currently exploring web development and backend programming.
   <br />
   🤝 Open to collaboration and always eager to connect with fellow developers.
-  <br />
-  ❤️ Only those who know it’s impossible yet still try — that’s true romance. 
 <div/>
