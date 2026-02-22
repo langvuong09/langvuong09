@@ -38,7 +38,7 @@ Hi, I'm Cuong, nice to meet you ^^
 ---
 <ul>
 <li>🎓 I'm learning Software Engineering at SaiGon University</li>
-<span>    Current GPA: 3.0/4.0</span>
+<span>        Current GPA: 3.0/4.0</span>
 <li>💻 Passionate about coding, love to explore, problem-solving, and constantly learning new technologies.</li>
 <li>🌱 Currently exploring web development and backend programming.</li>
 <li>🤝 Open to collaboration and always eager to connect with fellow developers.</li>
