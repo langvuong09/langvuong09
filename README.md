@@ -43,3 +43,7 @@ Hi, I'm Cuong, nice to meet you ^^
 <li>🌱 Currently exploring web development and backend programming.</li>
 <li>🤝 Open to collaboration and always eager to connect with fellow developers.</li>
 </ul>
+
+---
+---
+
