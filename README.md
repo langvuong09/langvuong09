@@ -34,7 +34,7 @@ Hi, I'm Cuong, nice to meet you ^^
   <br />
 </blockquote>
 
-🙋 About Me    
+🙋 ABOUT ME   
 ---
 <ul>
 <li>🎓 I'm learning Software Engineering at SaiGon University</li>
@@ -46,5 +46,5 @@ Hi, I'm Cuong, nice to meet you ^^
 
 ---
 
-✨ Skills
+✨ SKILLS
 ---
