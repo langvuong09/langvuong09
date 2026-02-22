@@ -18,7 +18,7 @@
 &nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.icons8.com/ios-filled/50/ff0000/gmail.png)](mailto:cuongcaotien9a@gmail.com)
 &nbsp;&nbsp;&nbsp;
-[![Linkedin](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](www.linkedin.com/in/cao-tiến-cường-32b117359)
+[![Linkedin](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/cao-ti%E1%BA%BFn-c%C6%B0%E1%BB%9Dng-32b117359/?isSelfProfile=true)
 <br />
 <br />
 </div>
