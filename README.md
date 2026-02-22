@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**langvuong09/langvuong09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>
+  <span style="color:#1e90ff;">Cao Tiến Cường</span>
+</h1>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" color="blue">
+
+<div align="center">
+
+<a href="[https://facebook.com/yourprofile](https://www.facebook.com/share/1C3dRwaQVH/)">
+  <img src="https://img.icons8.com/ios-filled/50/1e90ff/facebook-new.png"/>
+</a>
+<a href="https://github.com/yourusername">
+  <img src="https://img.icons8.com/ios-glyphs/50/1e90ff/github.png"/>
+</a>
+<a href="https://discord.gg/yourid">
+  <img src="https://img.icons8.com/ios-glyphs/50/1e90ff/discord-logo.png"/>
+</a>
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.icons8.com/ios-filled/50/1e90ff/gmail.png"/>
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.icons8.com/ios-filled/50/1e90ff/linkedin.png"/>
+</a>
+
+</div>
+
+<img align="left" src="https://i.imgur.com/youravatar.png" width="80"/>
+
+Hi, I'm Cuong, nice to meet you ^^
