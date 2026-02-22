@@ -18,9 +18,7 @@
 &nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.icons8.com/ios-filled/50/1e90ff/gmail.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 &nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.icons8.com/ios-filled/50/1e90ff/linkedin.png"/>
-</a>
+[![Intagram](https://img.icons8.com/ios-filled/50/1e90ff/linkedin.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 <br />
 <br />
 </div>
