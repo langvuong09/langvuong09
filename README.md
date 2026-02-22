@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;
 [![Github](https://img.icons8.com/ios-glyphs/50/000000/github.png)](https://github.com/langvuong09)
 &nbsp;&nbsp;&nbsp;
-[![Discord](https://img.icons8.com/ios-glyphs/50/800080/discord-logo.png)](https://www.facebook.com/share/1C3dRwaQVH/)
+[![Discord](https://img.icons8.com/ios-glyphs/50/800080/discord-logo.png)](https://discord.com/)
 &nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.icons8.com/ios-filled/50/ff0000/gmail.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 &nbsp;&nbsp;&nbsp;
