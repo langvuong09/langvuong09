@@ -14,7 +14,7 @@
   <img src="https://img.icons8.com/ios-filled/50/1e90ff/facebook-new.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/yourusername">
+<a href="https://github.com/yourusername" style="text-decoration:none;">
   <img src="https://img.icons8.com/ios-glyphs/50/1e90ff/github.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;
