@@ -32,9 +32,11 @@ I'm a **Software engineering** student with a srtong passion for **backend devel
 I enjoy creating in coding and exploring new technologies.
 <br />
 I'm always eager to bring my best to any team I join, with a strong sense of responsibility and dedication.
-
+<br />
 <div>
+  <h3>
   🚀 About Me
+  </h3>
   <br />
   🎓 I'm learning Software Engineering at SaiGon University
   <br />
@@ -45,4 +47,4 @@ I'm always eager to bring my best to any team I join, with a strong sense of res
   🌱 Currently exploring web development and backend programming.
   <br />
   🤝 Open to collaboration and always eager to connect with fellow developers.
-<div/>
+</div>
