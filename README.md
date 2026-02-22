@@ -5,9 +5,8 @@
 </h1>
 <br />
 <br />
+<br />
 </div>
-
-<div align="center" color="blue">
 
 <div align="center">
 
@@ -26,9 +25,10 @@
 <a href="https://linkedin.com/in/yourprofile">
   <img src="https://img.icons8.com/ios-filled/50/1e90ff/linkedin.png"/>
 </a>
-
+<br />
+<br />
 </div>
 
-<img align="left" src="https://i.imgur.com/youravatar.png" width="80"/>
+<img align="left" width="80"/>
 
 Hi, I'm Cuong, nice to meet you ^^
