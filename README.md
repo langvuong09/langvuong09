@@ -10,9 +10,7 @@
 
 <div align="center">
 
-<a href="[fe](https://www.facebook.com/share/1C3dRwaQVH/)">
-  <img src="https://img.icons8.com/ios-filled/50/1e90ff/facebook-new.png"/>
-</a>
+[![Facebook](https://img.icons8.com/ios-filled/50/1e90ff/facebook-new.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/yourusername" style="text-decoration:none; border:none;">
   <img src="https://img.icons8.com/ios-glyphs/50/1e90ff/github.png"/>
