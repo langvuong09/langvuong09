@@ -37,7 +37,6 @@ I'm always eager to bring my best to any team I join, with a strong sense of res
   <h3>
   🚀 About Me
   </h3>
-  <br />
   🎓 I'm learning Software Engineering at SaiGon University
   <br />
   Current GPA: 3.0/4.0
