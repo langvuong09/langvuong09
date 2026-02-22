@@ -28,7 +28,7 @@
 Hi, I'm Cuong, nice to meet you ^^
 
 <div>
-  I'm a #Software engineering# student with a srtong passion for backend development and building reliable, scalable systems.
+  I'm a **Software engineering** student with a srtong passion for backend development and building reliable, scalable systems.
   <br />
   I enjoy creating in coding and exploring new technologies.
   <br />
