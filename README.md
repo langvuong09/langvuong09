@@ -12,17 +12,11 @@
 
 [![Facebook](https://img.icons8.com/ios-filled/50/1e90ff/facebook-new.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/yourusername" style="text-decoration:none; border:none;">
-  <img src="https://img.icons8.com/ios-glyphs/50/1e90ff/github.png"/>
-</a>
+[![Facebook](https://img.icons8.com/ios-glyphs/50/1e90ff/github.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 &nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/yourid">
-  <img src="https://img.icons8.com/ios-glyphs/50/1e90ff/discord-logo.png"/>
-</a>
+[![Facebook](https://img.icons8.com/ios-glyphs/50/1e90ff/discord-logo.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://img.icons8.com/ios-filled/50/1e90ff/gmail.png"/>
-</a>
+[![Facebook](https://img.icons8.com/ios-filled/50/1e90ff/gmail.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/yourprofile">
   <img src="https://img.icons8.com/ios-filled/50/1e90ff/linkedin.png"/>
