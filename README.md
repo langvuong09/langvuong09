@@ -12,13 +12,13 @@
 
 [![Facebook](https://img.icons8.com/ios-filled/50/1e90ff/facebook-new.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 &nbsp;&nbsp;&nbsp;
-[![Github](https://img.icons8.com/ios-glyphs/50/1e90ff/github.png)](https://www.facebook.com/share/1C3dRwaQVH/)
+[![Github](https://img.icons8.com/ios-glyphs/50/000000/github.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 &nbsp;&nbsp;&nbsp;
-[![Discord](https://img.icons8.com/ios-glyphs/50/1e90ff/discord-logo.png)](https://www.facebook.com/share/1C3dRwaQVH/)
+[![Discord](https://img.icons8.com/ios-glyphs/50/800080/discord-logo.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 &nbsp;&nbsp;&nbsp;
-[![Gmail](https://img.icons8.com/ios-filled/50/1e90ff/gmail.png)](https://www.facebook.com/share/1C3dRwaQVH/)
+[![Gmail](https://img.icons8.com/ios-filled/50/ff0000/gmail.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 &nbsp;&nbsp;&nbsp;
-[![Intagram](https://img.icons8.com/ios-filled/50/1e90ff/linkedin.png)](https://www.facebook.com/share/1C3dRwaQVH/)
+[![Intagram](https://img.icons8.com/ios-filled/50/00008B/linkedin.png)](https://www.facebook.com/share/1C3dRwaQVH/)
 <br />
 <br />
 </div>
