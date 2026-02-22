@@ -38,7 +38,7 @@ I'm always eager to bring my best to any team I join, with a strong sense of res
   <br />
   🎓 I'm learning Software Engineering at SaiGon University
   <br />
-  Current GPA: 3.67/4.0
+  Current GPA: 3.00/4.0
   <br />
   💻 Passionate about coding, love to explore, problem-solving, and constantly learning new technologies.
   <br />
