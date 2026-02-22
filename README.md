@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<a href="[![Facebook](https://img.icons8.com/ios-filled/50/1e90ff/facebook-new.png)](https://www.facebook.com/share/1C3dRwaQVH/)">
+<a href="[![Facebook](https://www.facebook.com/share/1C3dRwaQVH/)]">
   <img src="https://img.icons8.com/ios-filled/50/1e90ff/facebook-new.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;
