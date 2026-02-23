@@ -80,6 +80,6 @@ Hi, I'm Cuong, nice to meet you ^^
     <h3>
       Tools
     </h3>
-    <img src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logoUrl=https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma Badge" />
+    <img src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logoUrl=https://skillicons.dev/icons?i=figma" alt="Figma Badge" />
   </div>
 </div>
