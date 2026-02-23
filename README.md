@@ -87,4 +87,7 @@ Hi, I'm Cuong, nice to meet you ^^
     <img src="assets/drawio.png" alt="Draw" style="height:50px;" />
     <img src="assets/photopea.png" alt="Photopea" style="height:50px;" />
   </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=langvuong09&show_icons=true&theme=dark" />
+  </div>
 </div>
