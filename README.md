@@ -82,6 +82,6 @@ Hi, I'm Cuong, nice to meet you ^^
     </h3>
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma Badge" />
     <img src="https://skillicons.dev/icons?i=postman" alt="Tools Icons" />
-    <img src="assets/canva.webp" alt="Canva" style="width:100px; border"/>
+    <img src="assets/canva.webp" alt="Canva" style="width:80px; padding-left:-10px"/>
   </div>
 </div>
