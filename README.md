@@ -68,4 +68,18 @@ Hi, I'm Cuong, nice to meet you ^^
     <img alt="Static Badge" src="https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express">
     <img alt="Static Badge" src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django">
   </div>
+  <div>
+    <h3>
+      Databases
+    </h3>
+    <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/sql%20server-%23CF4A0C?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  </div>
+  <div>
+    <h3>
+      Tools
+    </h3>
+    <img src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logoUrl=https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma Badge" />
+  </div>
 </div>
