@@ -82,6 +82,6 @@ Hi, I'm Cuong, nice to meet you ^^
     </h3>
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma Badge" />
     <img src="https://skillicons.dev/icons?i=postman" alt="Tools Icons" />
-    <img src="https://skillicons.dev/icons?i=canva" alt="Tools Icons" />
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logoUrl=https://upload.wikimedia.org/wikipedia/commons/3/31/Canva_Logo.svg" alt="Canva Badge">
   </div>
 </div>
