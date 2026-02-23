@@ -48,3 +48,11 @@ Hi, I'm Cuong, nice to meet you ^^
 
 ✨ Skills
 ---
+<div>
+  <div>
+    <h3>
+      Languages
+    </h3>
+    <img alt="Static Badge" src="https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java">
+  </div>
+</div>
