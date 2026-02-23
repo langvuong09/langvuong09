@@ -81,5 +81,6 @@ Hi, I'm Cuong, nice to meet you ^^
       Tools
     </h3>
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma Badge" />
+    <img src="https://skillicons.dev/icons?i=postman,canva" alt="Tools Icons" />
   </div>
 </div>
