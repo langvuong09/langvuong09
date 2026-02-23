@@ -54,5 +54,7 @@ Hi, I'm Cuong, nice to meet you ^^
       Languages
     </h3>
     <img alt="Static Badge" src="https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus">
+
   </div>
 </div>
