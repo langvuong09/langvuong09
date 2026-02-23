@@ -87,6 +87,11 @@ Hi, I'm Cuong, nice to meet you ^^
     <img src="assets/drawio.png" alt="Draw" style="height:50px;" />
     <img src="assets/photopea.png" alt="Photopea" style="height:50px;" />
   </div>
+
+---
+
+  🧠 LeetCode Stats
+  ---
   <div>
     <img src="https://leetcard.jacoblin.cool/cuonghero9a?theme=dark&font=Baloo" />
   </div>
