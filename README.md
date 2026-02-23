@@ -57,7 +57,7 @@ Hi, I'm Cuong, nice to meet you ^^
     <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus">
     <img alt="Static Badge" src="https://img.shields.io/badge/C%23-%232D2E83?style=for-the-badge">
     <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
   </div>
   <div>
     <h3>
