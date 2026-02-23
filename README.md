@@ -84,6 +84,6 @@ Hi, I'm Cuong, nice to meet you ^^
       <img src="https://skillicons.dev/icons?i=figma" alt="Figma Badge" style="height:50px;" />
       <img src="https://skillicons.dev/icons?i=postman" alt="Tools Icons" style="height:50px;" />
       <img src="https://skillicons.dev/icons?i=docker" alt="Docker Icon" style="height:50px;" />
-    <img src="assets/draw.png" alt="Draw" style="height:50px;" />
+    <img src="assets/drawio.png" alt="Draw" style="height:50px;" />
   </div>
 </div>
