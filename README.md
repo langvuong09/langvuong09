@@ -80,6 +80,7 @@ Hi, I'm Cuong, nice to meet you ^^
     <h3>
       Tools
     </h3>
+      <img src="assets/canva.webp" alt="Canva" style="height:50px;" />
       <img src="https://skillicons.dev/icons?i=figma" alt="Figma Badge" style="height:50px;" />
       <img src="https://skillicons.dev/icons?i=postman" alt="Tools Icons" style="height:50px;" />
       
