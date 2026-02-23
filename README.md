@@ -85,6 +85,6 @@ Hi, I'm Cuong, nice to meet you ^^
       <img src="https://skillicons.dev/icons?i=postman" alt="Tools Icons" style="height:50px;" />
       <img src="https://skillicons.dev/icons?i=docker" alt="Docker Icon" style="height:50px;" />
     <img src="assets/drawio.png" alt="Draw" style="height:50px;" />
-    <img src="assets/photopea.png" alt="Photopea" style="height:60px;" />
+    <img src="assets/photopea.png" alt="Photopea" style="height:50px;" />
   </div>
 </div>
