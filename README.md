@@ -55,6 +55,17 @@ Hi, I'm Cuong, nice to meet you ^^
     </h3>
     <img alt="Static Badge" src="https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java">
     <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus">
-
+    <img alt="Static Badge" src="https://img.shields.io/badge/C%23-%232D2E83?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=black">
+  </div>
+  <div>
+    <h3>
+      Backend Frameworks/Libraries
+    </h3>
+    <img alt="Static Badge" src="https://img.shields.io/badge/spring%20boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/.Net-%23512BD4?style=for-the-badge&logo=dotnet">
+    <img alt="Static Badge" src="https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express">
+    <img alt="Static Badge" src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django">
   </div>
 </div>
