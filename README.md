@@ -2,6 +2,7 @@
   <img src="assets/banner-typing.svg" width="100%">
 </p>
 <br />
+<br />
 <div align="center">
 
 [![Facebook](https://img.icons8.com/ios-filled/50/1e90ff/facebook-new.png)](https://www.facebook.com/share/1C3dRwaQVH/)
