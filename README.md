@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>
-  <span style="color:#1e90ff;">Cao Tiến Cường</span>
-</h1>
+<p align="center">
+  <img src="banner-typing.svg" width="100%">
+</p>
 <br />
 <br />
 <br />
