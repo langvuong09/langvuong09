@@ -1,6 +1,7 @@
 <div align="center">
 
 <p align="center">
+  <img src="typing.svg">
   <img src="assets/banner-typing.svg" width="100%">
 </p>
 <br />
