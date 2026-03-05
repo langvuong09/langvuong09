@@ -4,7 +4,7 @@
 		x="0" y="0" 
 		width="1200"
 		height="400"
-		preserveAspectRatio="xMidYMid meet"/>
+		preserveAspectRatio="xMidYMid slice"/>
   
   <text x="58%" y="55%" text-anchor="middle"
       font-size="46"
