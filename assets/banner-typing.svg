@@ -5,8 +5,8 @@
 		width="1200" height="400" 
 		preserveAspectRatio="xMidYMid meet"/>
   
-  <text x="55%" y="55%" text-anchor="middle"
-      font-size="40"
+  <text x="57%" y="55%" text-anchor="middle"
+      font-size="42"
       font-family="monospace"
       fill="#00eaff"
       letter-spacing="1">
