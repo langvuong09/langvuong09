@@ -5,59 +5,52 @@
 		width="1200" height="400" 
 		preserveAspectRatio="xMidYMid meet"/>
   
-  <text x="62%" y="50%" text-anchor="middle"
-      font-size="60"
+  <text x="50%" y="55%" text-anchor="middle"
+      font-size="36"
       font-family="monospace"
       fill="#00eaff"
       letter-spacing="2">
 
-  <!-- Dòng 1: CAO TIẾN -->
-  <tspan x="62%" dy="0">
-
-    <tspan opacity="0">C
-      <animate attributeName="opacity" to="1" dur="0.25s" begin="0s" fill="freeze"/>
-    </tspan>
-    <tspan opacity="0">A
-      <animate attributeName="opacity" to="1" dur="0.25s" begin="0.25s" fill="freeze"/>
-    </tspan>
-    <tspan opacity="0">O
-      <animate attributeName="opacity" to="1" dur="0.25s" begin="0.5s" fill="freeze"/>
-    </tspan>
-
-    <tspan dx="15" opacity="0">T
-      <animate attributeName="opacity" to="1" dur="0.25s" begin="0.75s" fill="freeze"/>
-    </tspan>
-    <tspan opacity="0">I
-      <animate attributeName="opacity" to="1" dur="0.25s" begin="1s" fill="freeze"/>
-    </tspan>
-    <tspan opacity="0">Ế
-      <animate attributeName="opacity" to="1" dur="0.25s" begin="1.25s" fill="freeze"/>
-    </tspan>
-    <tspan opacity="0">N
-      <animate attributeName="opacity" to="1" dur="0.25s" begin="1.5s" fill="freeze"/>
-    </tspan>
-
+  <!-- CAO -->
+  <tspan opacity="0">C
+    <animate attributeName="opacity" to="1" dur="0.25s" begin="0s" fill="freeze"/>
+  </tspan>
+  <tspan opacity="0">A
+    <animate attributeName="opacity" to="1" dur="0.25s" begin="0.25s" fill="freeze"/>
+  </tspan>
+  <tspan opacity="0">O
+    <animate attributeName="opacity" to="1" dur="0.25s" begin="0.5s" fill="freeze"/>
   </tspan>
 
-  <!-- Dòng 2: CƯỜNG -->
-  <tspan x="62%" dy="70">
+  <!-- TIẾN -->
+  <tspan dx="10" opacity="0">T
+    <animate attributeName="opacity" to="1" dur="0.25s" begin="0.75s" fill="freeze"/>
+  </tspan>
+  <tspan opacity="0">I
+    <animate attributeName="opacity" to="1" dur="0.25s" begin="1s" fill="freeze"/>
+  </tspan>
+  <tspan opacity="0">Ế
+    <animate attributeName="opacity" to="1" dur="0.25s" begin="1.25s" fill="freeze"/>
+  </tspan>
+  <tspan opacity="0">N
+    <animate attributeName="opacity" to="1" dur="0.25s" begin="1.5s" fill="freeze"/>
+  </tspan>
 
-    <tspan opacity="0">C
-      <animate attributeName="opacity" to="1" dur="0.25s" begin="1.75s" fill="freeze"/>
-    </tspan>
-    <tspan opacity="0">Ư
-      <animate attributeName="opacity" to="1" dur="0.25s" begin="2s" fill="freeze"/>
-    </tspan>
-    <tspan opacity="0">Ờ
-      <animate attributeName="opacity" to="1" dur="0.25s" begin="2.25s" fill="freeze"/>
-    </tspan>
-    <tspan opacity="0">N
-      <animate attributeName="opacity" to="1" dur="0.25s" begin="2.5s" fill="freeze"/>
-    </tspan>
-    <tspan opacity="0">G
-      <animate attributeName="opacity" to="1" dur="0.25s" begin="2.75s" fill="freeze"/>
-    </tspan>
-
+  <!-- CƯỜNG -->
+  <tspan dx="10" opacity="0">C
+    <animate attributeName="opacity" to="1" dur="0.25s" begin="1.75s" fill="freeze"/>
+  </tspan>
+  <tspan opacity="0">Ư
+    <animate attributeName="opacity" to="1" dur="0.25s" begin="2s" fill="freeze"/>
+  </tspan>
+  <tspan opacity="0">Ờ
+    <animate attributeName="opacity" to="1" dur="0.25s" begin="2.25s" fill="freeze"/>
+  </tspan>
+  <tspan opacity="0">N
+    <animate attributeName="opacity" to="1" dur="0.25s" begin="2.5s" fill="freeze"/>
+  </tspan>
+  <tspan opacity="0">G
+    <animate attributeName="opacity" to="1" dur="0.25s" begin="2.75s" fill="freeze"/>
   </tspan>
 
 </text>
