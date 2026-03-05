@@ -5,14 +5,15 @@
 		width="1200" height="400" 
 		preserveAspectRatio="xMidYMid meet"/>
   
-  <!-- Text -->
-  <text x="62%" y="55%" text-anchor="middle"
-        font-size="60"
-        font-family="monospace"
-        fill="#00eaff"
-        letter-spacing="2">
+  <text x="62%" y="50%" text-anchor="middle"
+      font-size="60"
+      font-family="monospace"
+      fill="#00eaff"
+      letter-spacing="2">
 
-    <!-- CAO -->
+  <!-- Dòng 1: CAO TIẾN -->
+  <tspan x="62%" dy="0">
+
     <tspan opacity="0">C
       <animate attributeName="opacity" to="1" dur="0.25s" begin="0s" fill="freeze"/>
     </tspan>
@@ -23,8 +24,7 @@
       <animate attributeName="opacity" to="1" dur="0.25s" begin="0.5s" fill="freeze"/>
     </tspan>
 
-    <!-- TIẾN -->
-    <tspan dx="5" opacity="0">T
+    <tspan dx="15" opacity="0">T
       <animate attributeName="opacity" to="1" dur="0.25s" begin="0.75s" fill="freeze"/>
     </tspan>
     <tspan opacity="0">I
@@ -37,8 +37,12 @@
       <animate attributeName="opacity" to="1" dur="0.25s" begin="1.5s" fill="freeze"/>
     </tspan>
 
-    <!-- CƯỜNG -->
-    <tspan dx="5" opacity="0">C
+  </tspan>
+
+  <!-- Dòng 2: CƯỜNG -->
+  <tspan x="62%" dy="70">
+
+    <tspan opacity="0">C
       <animate attributeName="opacity" to="1" dur="0.25s" begin="1.75s" fill="freeze"/>
     </tspan>
     <tspan opacity="0">Ư
@@ -53,6 +57,10 @@
     <tspan opacity="0">G
       <animate attributeName="opacity" to="1" dur="0.25s" begin="2.75s" fill="freeze"/>
     </tspan>
+
+  </tspan>
+
+</text>
 
   </text>
 
