@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="banner-typing.svg" width="100%">
+  <img src="assets/banner-typing.svg" width="100%">
 </p>
 <br />
 <br />
