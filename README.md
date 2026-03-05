@@ -3,7 +3,6 @@
   <img src="assets/banner-typing.svg" width="100%">
 </p>
 <br />
-<br />
 </div>
 
 <div align="center">
