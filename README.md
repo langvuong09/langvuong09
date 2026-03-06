@@ -70,6 +70,7 @@ Hi, I'm Cuong, nice to meet you ^^
     <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=black">
     <img alt="Static Badge" src="https://img.shields.io/badge/sql%20server-%23CF4A0C?style=for-the-badge">
     <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/noSQL-%235294E2?style=for-the-badge">
   </div>
   <div>
     <h3>
